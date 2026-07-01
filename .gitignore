@@ -10,6 +10,10 @@ Thumbs.db
 # Logs
 *.log
 
+# Bitmaps
+*.jpg
+*.png
+
 # Env files (each app's .env stays local; only .env.example is committed)
 .env
 .env.*.local
@@ -33,3 +37,6 @@ auth.json
 
 Homestead.json
 Homestead.yaml
+sail
+todo.txt
+laravel/public/nowastrona3.html
